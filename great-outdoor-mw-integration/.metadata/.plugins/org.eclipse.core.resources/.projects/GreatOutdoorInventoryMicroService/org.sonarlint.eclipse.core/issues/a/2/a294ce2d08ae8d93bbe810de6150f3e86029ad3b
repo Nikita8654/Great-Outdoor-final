@@ -1,0 +1,9 @@
+
+l
+java:S1611b"4Remove the parentheses around the "entity" parameter(íŸ’Ëþÿÿÿÿ8˜˜Ö÷Ÿ.HœRMINORZ
+CODE_SMELL
+m	java:S125r"<This block of commented-out lines of code should be removed.(‘ÇÂ8ââ­ûŸ.HRMAJORZ
+CODE_SMELL
+d
+java:S1612b",Replace this lambda with a method reference.(íŸ’Ëþÿÿÿÿ8 ¶÷Ÿ.HžRMINORZ
+CODE_SMELL
